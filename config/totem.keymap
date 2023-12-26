@@ -26,7 +26,7 @@
   quick-tap-ms = <100>;
   global-quick-tap;
   flavor = "balanced";
-  tapping-term-ms = <200>;
+  tapping-term-ms = <400>;
   require-prior-idle-ms = <100>;
 };
 
